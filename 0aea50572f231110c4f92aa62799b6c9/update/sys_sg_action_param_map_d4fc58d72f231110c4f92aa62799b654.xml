@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Permission list)">d8fc58d72f231110c4f92aa62799b652</button>
+        <item_parameter display_value="Permission list service_code">50fc58d72f231110c4f92aa62799b652</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-08 20:00:42</sys_created_on>
+        <sys_id>d4fc58d72f231110c4f92aa62799b654</sys_id>
+        <sys_name>50fc58d72f231110c4f92aa62799b652</sys_name>
+        <sys_package display_value="YESOD test" source="x_820048_yesod_tes">0aea50572f231110c4f92aa62799b6c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YESOD test">0aea50572f231110c4f92aa62799b6c9</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d4fc58d72f231110c4f92aa62799b654</sys_update_name>
+        <ui_parameter display_value="Service code">d8fc58d72f231110c4f92aa62799b653</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

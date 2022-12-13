@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="31bb14972f231110c4f92aa62799b6e6" label="Services" max_length="40" name="x_820048_yesod_tes_services" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Service code" max_length="40" name="service_code" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Service name" max_length="40" name="service_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

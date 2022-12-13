@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_820048_yesod_tes_services</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Services Form Screen">63ec18d72f231110c4f92aa62799b69c</embedded_screen>
+        <item_view/>
+        <name>Services master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-08 20:00:39</sys_created_on>
+        <sys_id>abec18d72f231110c4f92aa62799b69e</sys_id>
+        <sys_name>Services master_item</sys_name>
+        <sys_package display_value="YESOD test" source="x_820048_yesod_tes">0aea50572f231110c4f92aa62799b6c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YESOD test">0aea50572f231110c4f92aa62799b6c9</sys_scope>
+        <sys_update_name>sys_sg_master_item_abec18d72f231110c4f92aa62799b69e</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Services List Screen View Config">dfec14572f231110c4f92aa62799b646</view_config>
+    </sys_sg_master_item>
+</record_update>
